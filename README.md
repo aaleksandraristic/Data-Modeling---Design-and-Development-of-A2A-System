@@ -1,4 +1,4 @@
-# Data-Modeling---Design-and-Development-of-A2A-System
+# Data Modeling - Design & Development of A2A System
 
 My colleague Aleksandar Martic and I were designing and developing an information system called ‘A2A System’ utilizing the following Data Modeling Tools:
 
